@@ -1,0 +1,33 @@
+
+By Victor Retana, (add your names)
+
+
+This file will contain our current goals and the state of the desing process at any given point in time
+it is good to always write our goals down and stick to them
+
+
+------------------------------------------------------------------------------
+
+As of 3/3/2024 the AFT aims to desing a drone which can take off and land automously
+
+In order to develop this we must have a working method of simulating our drone and how the code we 
+integrate affects flight paths.
+
+The current goal is that we will give the drone two lines to follow, one that goes up x feet and one that
+goes down x feet. 
+
+( In the future we will have more complicated flight paths, but the process is still the same: getting the drone to fly along a given line)
+
+Current tasks are as follows:
+
+1. Standardize the meaning of a drone object
+2. Develop a kinematics modeling software which measures position and orientation over time
+   ( the first run of the software will use constant thurst conditions )
+3. Develop or find general preliminary controls software
+    ( we will need to model this software )
+4. integrate 
+
+
+
+
+---------------------------------------------------------------------------------
